@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        // Crear 5 estudiantes
+     
         Estudiante estudiante1 = new Estudiante();
         Estudiante estudiante2 = new Estudiante();
         Estudiante estudiante3 = new Estudiante();
